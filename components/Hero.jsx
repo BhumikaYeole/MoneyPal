@@ -25,7 +25,7 @@ function HeroSection() {
             <div className="relative bg-white/90 backdrop-blur-sm rounded-2xl shadow-2xl border border-gray-200/50 p-6">
             
               <Image
-                src="/moneypal_main.png"                
+                src="/moneypal_main.webp"                
                 alt="Hero Image"
                 width={1000}
                 height={500}
