@@ -45,7 +45,7 @@ function HeroSection() {
             >
               X
             </button>
-            <video src="/videos/MoneyPal Demo.mp4" controls autoPlay className="w-full" />
+            <video src="/videos/MoneyPalDemo.mp4" controls autoPlay className="w-full" />
           </div>
           <p className="text-white">Click anywhere to exit</p>
         </div>
